@@ -1,0 +1,23 @@
+{
+    "name": "08",
+    "version": "1.0.0",
+    "description": "node-lessons-08",
+    "main": "app.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "node",
+        "lessons"
+    ],
+    "author": "lxh",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "mocha": "^6.2.2",
+        "should": "^13.2.3",
+        "supertest": "^4.0.2"
+    }
+}

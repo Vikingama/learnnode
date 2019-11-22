@@ -1,0 +1,11 @@
+*/node_modules
+**/node_modules
+*/*.png
+**/*.png
+*/*.jpg
+**/*.jpg
+*/*.jpeg
+**/*.jpeg
+.DS_Store
+*/.DS_Store
+**/.DS_Store
