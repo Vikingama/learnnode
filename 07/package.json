@@ -1,0 +1,18 @@
+{
+    "name": "07",
+    "version": "1.0.0",
+    "description": "node-lessons-07",
+    "main": "app.js",
+    "scripts": {
+        "test": "mocha-phantomjs index.html --ssl-protocol=any --ignore-ssl-errors=true"
+    },
+    "keywords": [
+        "node",
+        "lessons"
+    ],
+    "author": "lxh",
+    "license": "ISC",
+    "devDependencies": {
+        "mocha-phantomjs": "^4.1.0"
+    }
+}
